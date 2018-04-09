@@ -9,6 +9,7 @@
 
 add code to test by rokid
 
+change email and user name
 
 [google link][id]
 
